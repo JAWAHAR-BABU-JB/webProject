@@ -9,9 +9,19 @@
   }
 
 body {
-  background-image: url("https://ak.picdn.net/shutterstock/videos/20837362/thumb/1.jpg");
+  /* background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"); */
+  /* background-size: cover;
+  background-clip:border-box; */
+  
+}
+
+.mainBody {
+  background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-clip: border-box;
   background-size: cover;
-  background-clip: content-box;
 }
   
   
@@ -63,7 +73,7 @@ body {
   }
   
   header .menu a{
-    color: green;
+    color: black;
     font-size: 16px;
     font-weight: 500;
     text-decoration: none;
@@ -145,7 +155,7 @@ body {
 
 
 .levelTags {
-    margin: 30px 10%;
+    margin: 30px 7%;
 }
 
 
@@ -193,6 +203,108 @@ body {
 
   }
 
+  .textTwo {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+  }
+
+  .textThree {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 35px;
+  }
+
+  .textFour {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 35px;
+    width: 100%;
+  }
+
+  .textFive {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 45px;
+    width: 100%;
+  }
+
+  .textSix {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 35px;
+    width: 98%;
+  }
+
+  .textSeven {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 50px;
+    width: 98%;
+  }
+
+
+  .textEight {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 10px;
+    width: 100%;
+  }
+
+  .textNine {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    padding-left: 30px;
+    width: 95%;
+    margin-left: 20px;
+
+  }
+
+  .textTen {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 45px;
+    width: 90%;
+    padding-left: 30px;
+
+  }
+
+  .textLast {
+    background-color: rgb(255, 199, 78);
+    color: white;
+    font-size: 12px;
+    padding: 14px 20px;
+    border-radius: 30px;
+    margin-left: 80px;
+    width: 100%;
+  }
+
 
   #tagTwo {
       padding-left: 15%;
@@ -205,13 +317,13 @@ body {
  }
 
     #tagFour {
-    padding-left: 53%;
+    padding-left: 50%;
     width: 150%;
     }
 
     #tagFive {
-        padding-left: 70%;
-        width: 155%;
+        padding-left: 68%;
+        width: 150%;
     }
 
     #tagSix {
@@ -221,12 +333,13 @@ body {
         }
 
     #tagSeven {
-            padding-left: 33%;
+            padding-left: 38%;
             width: 180%;
     }
 
     #tagEight {
-        padding-left: 15%;
+      margin-top: 20px;
+        padding-left: 20%;
         width: 120%;
     }
 
